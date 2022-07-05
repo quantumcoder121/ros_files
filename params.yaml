@@ -1,0 +1,14 @@
+rosdistro: 'noetic
+
+  '
+roslaunch:
+  uris:
+    host_oem_dell_g15_5511__34677: http://oem-Dell-G15-5511:34677/
+rosversion: '1.15.14
+
+  '
+run_id: 55aa4f90-f93d-11ec-8555-8750c459d5a6
+turtlesim:
+  background_b: 255
+  background_g: 86
+  background_r: 150
